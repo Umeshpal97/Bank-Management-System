@@ -7,9 +7,13 @@ This project demonstrates the practical use of Linked Lists and Dynamic Memory A
 🚀 Features
 
 1.🆕 Create New Account (with auto-generated account number)
+
 2.💰 Deposit Money
+
 3.💸 Withdraw Money
+
 4.📜 Maintain Transaction History
+
 5.🔍 View Account Details
 
 🛠️ Concepts Used
