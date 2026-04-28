@@ -48,10 +48,11 @@ Bash
 📸 Sample Menu
 
 1. Create Account
-2. Deposit Money
-3. Withdraw Money
-4. View Transaction History
-5. Exit
+   <img src="open_new_account.jpg">
+3. Deposit Money
+4. Withdraw Money
+5. View Transaction History
+6. Exit
 
 📈 Future Improvements
 
